@@ -10,6 +10,4 @@ print(f)
 
 
 
-
-
 #print(math.sqrt(a))
