@@ -1,7 +1,7 @@
 import math
 
 a=int(input())
-r=a/(2*3.14)
+r=a/(2*math.pi)
 print(r)
-s=3.14*r*r
+s=math.pi*r*r
 print(s)
